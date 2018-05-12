@@ -1,0 +1,33 @@
+_repo: Sport-Royal-and-Other-Stories_40697
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40697-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: ''
+gutenberg_issued: '2012-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+tableOfContents: Sport royal -- A tragedy in outline -- A malapropos parent -- How
+  they stopped the "run" -- A little joke -- A guardian of morality -- Not a bad deal
+  -- Middleton's model -- My astral body -- The Nebraska loadstone -- A successful
+  rehearsal.
+title: Sport Royal, and Other Stories
+url: http://www.gutenberg.org/ebooks/40697
