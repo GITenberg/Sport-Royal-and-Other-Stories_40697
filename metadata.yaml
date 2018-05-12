@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/63
     wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40697#Sport-Royal-and-Other-Stories
 gutenberg_issued: '2012-09-07'
 gutenberg_type: Text
 identifiers:
